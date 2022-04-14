@@ -1,0 +1,12 @@
+.DS_Store 
+
+#Folders
+
+/cifar-10-batches-bin/*
+__pycache__/
+
+*.pyc
+*.pyo
+
+
+
