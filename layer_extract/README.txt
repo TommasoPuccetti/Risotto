@@ -1,6 +1,6 @@
 ____INSTALLATION:____
 
-To install the required packages and GPU support please load the Anaconda environment  "execute_models" in this folder:
+To install the required packages and GPU support please load the Anaconda environment  "models" in this folder:
 
 	1) conda env create -f environment_extract.yml
 	2) conda activate execute_models
